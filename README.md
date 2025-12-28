@@ -12,10 +12,17 @@ A modern React application with secure authentication and 2FA (Two-Factor Authen
 - 🎯 Tailwind CSS styling
 - 🔄 Protected routes
 
-![start](images/step-start.png)
-![enable](images/step-enable.png)
-![scan](images/step-scan.png)
-![verify](images/step-verify.png)
+### Step 1: Start
+<img src="images/step-start.png" alt="Start" width="400"/>
+
+### Step 2: Enable
+<img src="images/step-enable.png" alt="Enable" width="400"/>
+
+### Step 3: Scan
+<img src="images/step-scan.png" alt="Scan" width="400"/>
+
+### Step 4: Verify
+<img src="images/step-verify.png" alt="Verify" width="400"/>
 ## Tech Stack
 
 - **Frontend Framework**: React 18
