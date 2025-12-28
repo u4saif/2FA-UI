@@ -12,6 +12,10 @@ A modern React application with secure authentication and 2FA (Two-Factor Authen
 - 🎯 Tailwind CSS styling
 - 🔄 Protected routes
 
+![start](images/step-start.png)
+![enable](images/step-enable.png)
+![scan](images/step-scan.png)
+![verify](images/step-verify.png)
 ## Tech Stack
 
 - **Frontend Framework**: React 18
