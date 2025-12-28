@@ -42,7 +42,10 @@ export const AuthLayout: React.FC<AuthLayoutProps> = ({
 
         {/* Footer */}
         <p className="text-center text-sm text-gray-500 mt-6">
-          Secure authentication powered by JWT & 2FA
+          Secure authentication powered by JWT & 2FA 🔒
+          <br />
+          &copy; {new Date().getFullYear()} Shaikh Saifuddin. 
+          <br />All rights reserved.
         </p>
       </div>
     </div>

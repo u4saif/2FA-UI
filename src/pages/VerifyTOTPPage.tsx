@@ -8,7 +8,7 @@ import { useAuth } from '../context/AuthContext';
 export const VerifyTOTPPage: React.FC = () => {
   const navigate = useNavigate();
   const { setUser, setToken } = useAuth();
-  const [error, setError] = useState('');
+  const [error] = useState('');
   const email = localStorage.getItem('pendingEmail');
 
   const handleSuccess = (accessToken: string) => {

@@ -170,6 +170,8 @@ This creates an optimized production build in the `build/` folder.
 - Try a different authenticator app
 - Re-scan the QR code if setup wasn't completed
 
+## Application UI
+
 ## License
 
 MIT
